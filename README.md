@@ -94,8 +94,8 @@
   </a>
 </div>
 <hr>
-
-<h2 align="center">⛏️ SKILLS 🔨</h2>
+<!-- 
+<h2 align="center">⛏️ SKILLS 🔨</h2> -->
 
 <!-- <div> -->
 <!--   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> -->
@@ -104,50 +104,6 @@
   <!-- <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> -->
 <!-- </div> -->
-<div>
-  <img src="https://img.shields.io/badge/Python-3F7CAD?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F9AB00?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=educative&logoColor=white"> <!-- old logo is powershell -->
-<!--   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-</div>
-<div>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-<div>
-<!--   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> -->
-</div>
-<div>
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white"> -->
-  <!-- <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white"> -->
-</div>
-<!-- <div>
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</div> -->
-<!-- <div>
-  <a href="https://leetcode.com/u/codeonbeans/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</div> -->
-
-<hr>
 
 <h2 align="center">⏲️ WAKATIME 🧑‍💻</h2>
 
@@ -220,7 +176,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 <!-- DAILY.DEV SECTION -->
 
-<h2 align="center">📆 DAILY DEV 🗓️</h2>
+<!-- <h2 align="center">📆 DAILY DEV 🗓️</h2>
 
 <details>
     <summary align="center">
@@ -231,11 +187,11 @@ Shell                    1 repo              ░░░░░░░░░░░�
     </div>
 </details>
 
-<hr>
+<hr> -->
 
 <!-- HOLOPIN SECTION -->
 
-<h2 align="center">😶‍🌫️ HOLOPIN 🦖</h2>
+<!-- <h2 align="center">😶‍🌫️ HOLOPIN 🦖</h2>
 
 <details>
     <summary align="center">
@@ -246,4 +202,4 @@ Shell                    1 repo              ░░░░░░░░░░░�
             <img src="https://holopin.me/codeonbeans" alt="@codeonbeans's Holopin board" />
         </a>
     </div>
-</details>
+</details> -->
