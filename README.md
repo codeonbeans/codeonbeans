@@ -83,7 +83,7 @@
   <a href="mailto:codeonbeans@gmail.com" target="_blank">
     <img src="icons/email.svg" alt="Email - codeonbeans@gmail.com" height="50" width="50" />
   </a>
-  <a href="https://www.facebook.com/amongusslayersus" target="_blank">
+  <a href="https://www.facebook.com/codeonbeans" target="_blank">
     <img src="icons/facebook.svg" alt="Facebook - Đậu Văn Đăng Khoa" height="50" width="50" />
   </a>
   <a href="https://t.me/codeonbeans" target="_blank">
