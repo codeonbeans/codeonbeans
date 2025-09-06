@@ -1,5 +1,5 @@
 
-![Profile views](https://komarev.com/ghpvc/?username=khoakomlem)
+![Profile views](https://komarev.com/ghpvc/?username=codeonbeans)
 
 <!-- ABOUT ME SECTION -->
 
@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td align="center"><strong>NICKNAME</strong></td>
-      <td>khoakomlem</td>
+      <td>codeonbeans</td>
     </tr>
     <tr>
       <td align="center"><strong>GENDER</strong></td>
@@ -57,10 +57,10 @@
 
 <div align="right">
   <div align="center">
-    <a href="https://github.com/khoakomlem">
-      <img src="https://komarev.com/ghpvc/?username=khoakomlem&color=82A0D8&style=for-the-badge&label=hit" alt="Hit from 9/11/24">
+    <a href="https://github.com/codeonbeans">
+      <img src="https://komarev.com/ghpvc/?username=codeonbeans&color=82A0D8&style=for-the-badge&label=hit" alt="Hit from 9/11/24">
     </a>
-    <a href="https://github.com/khoakomlem">
+    <a href="https://github.com/codeonbeans">
       <img src="https://img.shields.io/badge/website-ECEE81?style=for-the-badge">
     </a>
     <br>
@@ -80,17 +80,17 @@
 <h2 align="center">🌐 SOCIAL NETWORKS 📩</h2>
 
 <div align="center" style="text-decoration=none;">
-  <a href="mailto:khoakomlem@gmail.com" target="_blank">
-    <img src="icons/email.svg" alt="Email - khoakomlem@gmail.com" height="50" width="50" />
+  <a href="mailto:codeonbeans@gmail.com" target="_blank">
+    <img src="icons/email.svg" alt="Email - codeonbeans@gmail.com" height="50" width="50" />
   </a>
   <a href="https://www.facebook.com/amongusslayersus" target="_blank">
     <img src="icons/facebook.svg" alt="Facebook - Đậu Văn Đăng Khoa" height="50" width="50" />
   </a>
-  <a href="https://t.me/khoakomlem" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1603/1603076.png" alt="Telegram - khoakomlem" height="50" width="50" />
+  <a href="https://t.me/codeonbeans" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1603/1603076.png" alt="Telegram - codeonbeans" height="50" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/khoakomlem/" target="_blank">
-    <img src="icons/linkedin.svg" alt="Linkedin - Khoa Đậu (khoakomlem)" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/codeonbeans/" target="_blank">
+    <img src="icons/linkedin.svg" alt="Linkedin - Khoa Đậu (codeonbeans)" height="50" width="50" />
   </a>
 </div>
 <hr>
@@ -141,7 +141,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div> -->
 <!-- <div>
-  <a href="https://leetcode.com/u/khoakomlem/">
+  <a href="https://leetcode.com/u/codeonbeans/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
@@ -154,7 +154,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C116%20hrs%2045%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
@@ -167,7 +167,7 @@ Markdown                 57 mins             █░░░░░░░░░░�
 YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
 Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
@@ -176,9 +176,6 @@ GDScript                 2 repos             █░░░░░░░░░░�
 Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
-
-
-
 
 <!--END_SECTION:waka-->
 
@@ -194,27 +191,27 @@ Shell                    1 repo              ░░░░░░░░░░░�
     </summary>
     <div align="center">
       <!-- Anuraghazra Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=khoakomlem&show_icons=true&theme=tokyonight&card_width=570&layout=compact" alt="khoakomlem's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=codeonbeans&show_icons=true&theme=tokyonight&card_width=570&layout=compact" alt="codeonbeans's GitHub stats">
       <br>
       <!-- Streak: https://git.io/streak-stats -->
-      <img src="https://streak-stats.demolab.com?user=khoakomlem&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570" alt="khoakomlem's GitHub Streak">
+      <img src="https://streak-stats.demolab.com?user=codeonbeans&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&card_width=570" alt="codeonbeans's GitHub Streak">
       <br>
       <!-- Top Langs: https://github.com/anuraghazra/github-readme-stats -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoakomlem&langs_count=10&theme=tokyonight&card_width=570&layout=compact" alt="khoakomlem's Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeonbeans&langs_count=10&theme=tokyonight&card_width=570&layout=compact" alt="codeonbeans's Top Langs">
       <br>
       <!-- WakaTime: https://github.com/anuraghazra/github-readme-stats -->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=khoakomlem&theme=tokyonight&card_width=570&layout=compact&langs_count=10&custom_title=khoakomlem%27s%20WakaTime%20in%20last%20year" alt="khoakomlem's WakaTime in last year" width="570px">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeonbeans&theme=tokyonight&card_width=570&layout=compact&langs_count=10&custom_title=codeonbeans%27s%20WakaTime%20in%20last%20year" alt="codeonbeans's WakaTime in last year" width="570px">
       <br>
       <!-- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoakomlem&theme=tokyo-night&radius=12&hide_border=false&area=true" alt="khoakomlem's Activity Graph" width="570px">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeonbeans&theme=tokyo-night&radius=12&hide_border=false&area=true" alt="codeonbeans's Activity Graph" width="570px">
       <br>
       <!-- Github Trophies: https://github.com/ryo-ma/github-profile-trophy -->
-      <img src="https://github-profile-trophy.vercel.app/?username=khoakomlem&column=5&theme=tokyonight&no-bg=false" alt="khoakomlem's Trophies" width="570px">
+      <img src="https://github-profile-trophy.vercel.app/?username=codeonbeans&column=5&theme=tokyonight&no-bg=false" alt="codeonbeans's Trophies" width="570px">
       <!-- <br> -->
       <!-- Spotify Recently Played: https://github.com/JeffreyCA/spotify-recently-played-readme -->
       <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ms2mpwauroluxnjudw7a6u336e&count=5&width=570" alt="Spotify Recently Played" width="570px"> -->
         <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-<!--       <img src="https://leetcard.jacoblin.cool/khoakomlem?theme=nord&font=Noto%20Sans&ext=heatmap" alt="khoakomlem's LeetCode Stats" width="570px"> -->
+<!--       <img src="https://leetcard.jacoblin.cool/codeonbeans?theme=nord&font=Noto%20Sans&ext=heatmap" alt="codeonbeans's LeetCode Stats" width="570px"> -->
     </div>
 
 </details>
@@ -230,7 +227,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
         <kbd>Click here to expand</kbd>
     </summary>
     <div align="center">
-        	<a href="https://app.daily.dev/khoakomlem"><img src="https://api.daily.dev/devcards/v2/t0QOLYAqdeVLuEGrWmN4R.png?r=qs2&type=wide" width="652" alt="Dau Van Dang Khoa's Dev Card"/></a>
+         <a href="https://app.daily.dev/codeonbeans"><img src="https://api.daily.dev/devcards/v2/t0QOLYAqdeVLuEGrWmN4R.png?r=qs2&type=wide" width="652" alt="Dau Van Dang Khoa's Dev Card"/></a>
     </div>
 </details>
 
@@ -245,8 +242,8 @@ Shell                    1 repo              ░░░░░░░░░░░�
         <kbd>Click here to expand</kbd>
     </summary>
     <div align="center">
-        <a href="https://holopin.io/@khoakomlem">
-            <img src="https://holopin.me/khoakomlem" alt="@khoakomlem's Holopin board" />
+        <a href="https://holopin.io/@codeonbeans">
+            <img src="https://holopin.me/codeonbeans" alt="@codeonbeans's Holopin board" />
         </a>
     </div>
 </details>
