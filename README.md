@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=82A0D8&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Go+%26+TypeScript+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
----
-
 ## 💫 About Me
 
 <table align="center">
@@ -56,35 +54,16 @@
 <div align="center">
   <br>
 
-[![Wakatime](https://wakatime.com/badge/user/592c97c4-15ad-49cb-ac34-d607be35c524.svg?style=for-the-badge)](https://wakatime.com/592c97c4-15ad-49cb-ac34-d607be35c524)
-
-<br><br>
 
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="200" alt="Golang Gopher" />
 
   <br>
 
-<h1>**⭐ If you find my work interesting, I'd be thrilled if you could star any of my repositories! ⭐**</h1>
+<!-- [![Wakatime](https://wakatime.com/badge/user/592c97c4-15ad-49cb-ac34-d607be35c524.svg?style=for-the-badge)](https://wakatime.com/592c97c4-15ad-49cb-ac34-d607be35c524) -->
+# ⭐ If you find my work interesting, I'd be thrilled if you could star any of my repositories! ⭐
+<br>
 
-</div>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:codeonbeans@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/codeonbeans" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://t.me/codeonbeans" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/codeonbeans/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
 
 [//]: # (---)
@@ -127,7 +106,6 @@
 
 </div>
 
----
 
 ## ⏲️ Coding Activity
 
@@ -159,7 +137,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -189,7 +167,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 </details>
 
----
+
 
 <div align="center">
 
@@ -200,5 +178,22 @@ Shell                    1 repo              ░░░░░░░░░░░�
   <br>
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:codeonbeans@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/codeonbeans" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://t.me/codeonbeans" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/codeonbeans/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 </div>
