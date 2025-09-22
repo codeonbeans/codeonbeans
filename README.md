@@ -110,20 +110,7 @@
 ## ⏲️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C202%20hrs%208%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Go                       33 hrs 10 mins      ██████████████████░░░░░░░   70.50 % 
-TypeScript               5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Prisma                   3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-SQL                      2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C235%20hrs%2048%20mins-blue)
 
 **I Mostly Code in JavaScript** 
 
